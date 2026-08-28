@@ -1,0 +1,5 @@
+# Nothing here is build output we want ignored - the .bin artefacts and
+# version.json ARE the deliverable. Keep this file so the repo has an
+# explicit "we publish binaries on purpose" marker.
+Thumbs.db
+desktop.ini
